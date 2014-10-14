@@ -1,0 +1,25 @@
+#MyEclipse Hibernate Properties
+#Tue Oct 14 14:48:37 CST 2014
+sessionFactoryName=
+genBasicCompId=false
+profile=
+daoSFId=
+version=3.3
+jndiPath=
+detectM2M=false
+reStrategyClass=
+detectO2O=false
+springDaoFile=
+useJavaTypes=true
+keyGenerator=
+libInstallFolder=/WebRoot/WEB-INF/lib
+addLibs2Project=true
+genVersionTag=false
+sessionFactoryId=sessionFactory
+basePersistenceClass=
+genAnnotations=false
+reSettingsFile=
+configFile=/nkuweblearn/src/applicationContext.xml
+createConfigFile=false
+addLibs2Classpath=true
+baseDaoClass=
